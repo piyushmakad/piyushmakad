@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi there! I'm a passionate Software Development Engineer (SDE) Intern at Cinestox, specializing in backend development.<br>💻 I enjoy working on scalable and real-time applications, combining my skills in JavaScript, Python, Java, and tools like ReactJS, NodeJS, PostgreSQL, and Docker.<br>🚀 My projects include a scalable chat application with Socket.io, Redis, and Next.js, a full-stack blog app with the MERN stack, and an Android shopping app.<br>🌱 Currently diving deeper into Golang, Django, TypeScript, and Prisma.<br>📫 Let's connect and collaborate!
+👋 Hi there! I'm a dedicated Software Development Engineer (SDE 1) at Cinestox, specializing in backend development.<br>
+💻 I enjoy building scalable and real-time systems, leveraging my skills in JavaScript, Python, Java, and technologies like ReactJS, NodeJS, PostgreSQL, Docker, and Kafka.<br>
+🚀 My projects include a scalable chat application using Socket.io, Redis, and Next.js, a full-stack blog app built with the MERN stack, a real-time trading system powered by Kafka, and an Android shopping app.<br>
+🌱 Currently deepening my expertise in Golang, Django, TypeScript, and Prisma.<br>
+📫 Let's connect and collaborate on impactful tech!
+
 
 
 ## 🌐 Socials:
