@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hi there! I'm a dedicated Software Development Engineer (SDE 1) at Cinestox, specializing in backend development.<br>
-💻 I enjoy building scalable and real-time systems, leveraging my skills in JavaScript, Python, Java, and technologies like ReactJS, NodeJS, PostgreSQL, Docker, and Kafka.<br>
-🚀 My projects include a scalable chat application using Socket.io, Redis, and Next.js, a full-stack blog app built with the MERN stack, an Android shopping app, and <strong>AutoGit AI</strong> — an AI-powered dev assistant that transcribes meetings, summarizes repositories, and answers source code questions using vector search.<br>
-🌱 Currently deepening my expertise in Golang, Django, TypeScript, and Prisma.<br>
+👋 Hi there! I'm a dedicated Software Development Engineer (SDE 1) specializing in backend development.
+💻 I enjoy building scalable and real-time systems, leveraging my skills in JavaScript, Python, Java, and technologies like ReactJS, NodeJS, PostgreSQL, Docker, and Kafka.
+🚀 My projects include a scalable chat application using Socket.io, Redis, and Next.js, a full-stack blog app built with the MERN stack, an Android shopping app, and AutoGit AI — an AI-powered dev assistant that transcribes meetings, summarizes repositories, and answers source code questions using vector search.
+🌱 Currently deepening my expertise in Golang, Django, TypeScript, and Prisma.
 📫 Let's connect and collaborate on impactful tech!
 
 
