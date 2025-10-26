@@ -1,8 +1,9 @@
 # 💫 About Me:
-👋 Hi there! I'm a dedicated Software Development Engineer (SDE 1) specializing in backend development.
-💻 I enjoy building scalable and real-time systems, leveraging my skills in JavaScript, Python, Java, and technologies like ReactJS, NodeJS, PostgreSQL, Docker, and Kafka.
-🚀 My projects include a scalable chat application using Socket.io, Redis, and Next.js, a full-stack blog app built with the MERN stack, an Android shopping app, and AutoGit AI — an AI-powered dev assistant that transcribes meetings, summarizes repositories, and answers source code questions using vector search.
-🌱 Currently deepening my expertise in Golang, Django, TypeScript, and Prisma.
+👋 Hi there! I'm a Full Stack Developer (SDE 1) working across both frontend and backend to build scalable, real-time, and microservice-based applications.
+💻 I work with technologies like React.js, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, RabbitMQ, Redis, and follow clean architecture and design principles.
+🚀 My key projects include AutoGit AI, an AI-powered developer tool that transcribes meetings, summarizes repositories, and enables vector-based code search, and PrepTime, an AI interview platform that conducts role-specific interviews with real-time feedback using voice-based AI and Gemini.
+🧩 I’m currently working on designing and developing applications using Microservice Architecture and event-driven systems to improve scalability and independence of services.
+🌱 Currently deepening my expertise in Golang, Prisma, system design, and microservices architecture.
 📫 Let's connect and collaborate on impactful tech!
 
 
