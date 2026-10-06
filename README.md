@@ -52,6 +52,12 @@ A repository-intelligence platform for codebase summarization, semantic source-c
 - Go concurrency and production-oriented service design
 - AI automation and developer tooling
 
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python,java,nodejs,express,react,nextjs,tailwind,postgres,mongodb,mysql,redis,kafka,rabbitmq,docker,kubernetes,aws,github&perline=20" alt="Languages and tools" />
+</p>
+
 ## GitHub snapshot
 
 <p>
