@@ -1,28 +1,57 @@
-# 💫 About Me:
-👋 Hi there! I'm a Full Stack Developer (SDE 1) working across both frontend and backend to build scalable, real-time, and microservice-based applications.
-💻 I work with technologies like React.js, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, RabbitMQ, Redis, and follow clean architecture and design principles.
-🚀 My key projects include AutoGit AI, an AI-powered developer tool that transcribes meetings, summarizes repositories, and enables vector-based code search, and PrepTime, an AI interview platform that conducts role-specific interviews with real-time feedback using voice-based AI and Gemini.
-🧩 I’m currently working on designing and developing applications using Microservice Architecture and event-driven systems to improve scalability and independence of services.
-🌱 Currently deepening my expertise in Golang, Prisma, system design, and microservices architecture.
-📫 Let's connect and collaborate on impactful tech!
+# Piyush Makad
 
+Backend-leaning full-stack engineer focused on performance, reliability, distributed systems, and AI-enabled products.
 
+I currently work at ChatDaddy, building real-time messaging, automation, commerce, and platform capabilities with Node.js and TypeScript. Recent production work includes:
 
+- Reducing contacts-related API latency from 800 ms to under 150 ms and eliminating 290K+ unnecessary calls per day
+- Reducing decryption failures for retried messages from 65% to under 1%
+- Building a MongoDB and Elasticsearch hot/cold data layer with double-digit-millisecond response times
+- Root-causing a PostgreSQL outage caused by an orphaned replication slot pinning 200 GB+ of WAL
+- Building observability tooling that surfaced 257 error patterns across 22 microservices
+- Architecting and publishing a 120-tool MCP platform across Claude, Codex, Cursor, and VS Code
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-makad-758834244/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/piyushmakad16) 
+## Selected projects
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=flat&logo=tRPC&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=piyushmakad&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=piyushmakad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmakad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### [PulseFlow](https://github.com/piyushmakad/Pulseflow)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=piyushmakad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+A multi-tenant event-ingestion and notification-delivery platform built around production-oriented reliability patterns.
 
----
-[![](https://visitcount.itsvg.in/api?id=piyushmakad&icon=0&color=0)](https://visitcount.itsvg.in)
+- Go, PostgreSQL transactional outbox, Kafka, Redis, and tenant-scoped idempotency
+- Explicit state machines, bounded worker pools, durable retries, and dead-letter recovery
+- Separate API, worker, and migration roles deployed with Docker, Kubernetes, Kustomize, and Oracle OKE
+- Race-tested CI, graceful shutdown, lease recovery, backlog monitoring, and multi-architecture image builds
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### [PrepTime](https://github.com/piyushmakad/prep-time)
+
+A real-time AI mock-interview platform that conducts role-specific voice interviews and provides structured feedback.
+
+- Next.js, TypeScript, Vapi voice agents, Gemini, and Firebase
+- Persistent interview history and end-to-end interview practice flows
+- [Live demo](https://prep-time.vercel.app/)
+
+### [AutoGit AI](https://github.com/piyushmakad/ai-github-app)
+
+A repository-intelligence platform for codebase summarization, semantic source-code search, commit analysis, and meeting transcription.
+
+- Next.js, TypeScript, PostgreSQL, Prisma, Gemini, embeddings, and vector search
+- [Live demo](https://ai-github-app.vercel.app/)
+
+## Core technologies
+
+**Backend and systems:** Node.js, TypeScript, Go, Kafka, RabbitMQ, Redis, PostgreSQL, MongoDB, Elasticsearch, REST, SSE, Socket.IO, MCP
+
+**Cloud and delivery:** AWS, EKS, Oracle OKE, Kubernetes, Docker, Kustomize, GitHub Actions, CI/CD
+
+**Frontend and AI:** React, Next.js, Tailwind CSS, Gemini, Vapi, Firebase
+
+## Current focus
+
+- Distributed-system reliability and failure recovery
+- Event-driven architectures and high-throughput backend services
+- Go concurrency and production-oriented service design
+- AI automation and developer tooling
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/piyush-makad-758834244/) · [Email](mailto:piyush.makad16@gmail.com)
