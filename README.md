@@ -52,6 +52,13 @@ A repository-intelligence platform for codebase summarization, semantic source-c
 - Go concurrency and production-oriented service design
 - AI automation and developer tooling
 
+## GitHub snapshot
+
+<p>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=piyushmakad&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Piyush Makad's GitHub statistics" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmakad&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most-used repository languages" />
+</p>
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/piyush-makad-758834244/) · [Email](mailto:piyush.makad16@gmail.com)
