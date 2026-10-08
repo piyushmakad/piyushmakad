@@ -4,7 +4,7 @@ Backend-leaning full-stack engineer focused on performance, reliability, distrib
 
 I currently work at ChatDaddy, building real-time messaging, automation, commerce, and platform capabilities with Node.js and TypeScript. Recent production work includes:
 
-- Reducing contacts-related API latency from 800 ms to under 150 ms and eliminating 290K+ unnecessary calls per day
+- Reducing contacts-related API latency from 800 ms to under 150 ms and eliminating 290K+ unnecessary API/operations calls per day
 - Reducing decryption failures for retried messages from 65% to under 1%
 - Building a MongoDB and Elasticsearch hot/cold data layer with double-digit-millisecond response times
 - Root-causing a PostgreSQL outage caused by an orphaned replication slot pinning 200 GB+ of WAL
