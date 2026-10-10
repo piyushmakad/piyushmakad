@@ -33,11 +33,18 @@ A real-time AI mock-interview app built with Next.js, TypeScript, Vapi voice age
 
 A repository-intelligence app for codebase summaries, semantic code search, commit analysis, and meeting transcription, built with Next.js, TypeScript, PostgreSQL, Prisma, Gemini, embeddings, and vector search.
 
-## Technologies
+## GitHub snapshot
 
-**AI and full stack:** React.js, Next.js, OpenAI Responses API, MCP, LLM tool calling, Gemini, Vapi, Tailwind CSS  
-**Backend and data:** Node.js, TypeScript, Go, PostgreSQL, MongoDB, Elasticsearch, Redis, Kafka, RabbitMQ, REST, SSE, Socket.IO  
-**Cloud and delivery:** Docker, Kubernetes, AWS EKS, Oracle OKE, GitHub Actions, CI/CD
+<p>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=piyushmakad&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="Piyush Makad's GitHub statistics" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushmakad&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most-used repository languages" />
+</p>
+
+## Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python,java,nodejs,express,react,nextjs,tailwind,postgres,mongodb,mysql,redis,kafka,rabbitmq,docker,kubernetes,aws,github&perline=20" alt="Languages and tools" />
+</p>
 
 ## Connect
 
