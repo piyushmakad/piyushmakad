@@ -29,7 +29,7 @@ A Go portfolio project for multi-tenant event ingestion and notification deliver
 
 A real-time AI mock-interview app built with Next.js, TypeScript, Vapi voice agents, Gemini, and Firebase, with persistent interview history and structured feedback.
 
-### [AutoGit AI](https://github.com/piyushmakad/ai-github-app) · [Live demo](https://ai-github-app.vercel.app/)
+### [AutoGit AI](https://github.com/piyushmakad/ai-github-app)
 
 A repository-intelligence app for codebase summaries, semantic code search, commit analysis, and meeting transcription, built with Next.js, TypeScript, PostgreSQL, Prisma, Gemini, embeddings, and vector search.
 
