@@ -15,7 +15,7 @@ I have 2.2+ years of experience shipping AI features and high-volume backend ser
 ## Backend engineering
 
 - Built hot/cold data partitioning across MongoDB and cold storage with Elasticsearch-backed search, maintaining double-digit millisecond response times.
-- Made contact lookups **5× faster** and removed **290K+ API and operational calls per day**.
+- Made contact lookups **5× faster** and removed **290K+ API/operational calls per day**.
 - Reduced decryption failures on retried WhatsApp channel messages from **65% to under 1%** across **200K+ daily messages**.
 - Root-caused a production PostgreSQL disk-full outage to an orphaned replication slot retaining **200GB+ of WAL**.
 
