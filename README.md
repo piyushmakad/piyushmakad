@@ -2,7 +2,7 @@
 
 **Full Stack AI Engineer | Production LLM products, MCP, and backend systems**
 
-I have 2.2+ years of experience shipping AI features and high-volume backend services. At ChatDaddy, I work across React interfaces, LLM workflows, APIs, data systems, and production reliability.
+I have 2.2+ years of work experience shipping AI features and high-volume backend services. At ChatDaddy, I work across React interfaces, LLM workflows, APIs, data systems, and production reliability.
 
 ## Production AI work
 
