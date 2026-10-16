@@ -2,21 +2,21 @@
 
 **Full Stack AI Engineer | Production LLM products, MCP, and backend systems**
 
-I have 2.2+ years of work experience shipping AI features and high-volume backend services. At ChatDaddy, I work across React interfaces, LLM workflows, APIs, data systems, and production reliability.
+I have 2.2+ years of work experience shipping production LLM products and high-volume backend systems. At ChatDaddy, I owned AI features end to end across React interfaces, LLM workflows, APIs, data systems, deployment, and production reliability on a platform managing **10M+ daily messages for 20K+ businesses**.
 
 ## Production AI work
 
 - Architected and published a **120-tool MCP platform** for messaging, CRM, automation, and commerce, with typed schemas, team-scoped access, and approval-gated writes.
 - Built a **prompt-to-flow generator** with React and OpenAI Responses that turns natural-language requests into structured, editable automation workflows; refined generated steps through human-led evaluation.
-- Owned **Daily AI Reports** end to end, including 24-hour analytics comparisons, LLM prompts, fallback handling, billing, email, and React UI.
-- Shipped **LLM-powered WhatsApp Business insights** that use conversation histories and account quality signals to recommend ways to improve messaging performance.
+- Shipped paid **Daily AI Reports for 3,000+ teams**, owning 24-hour analytics comparisons, prompt design, fallback handling, billing, email delivery, and React UI while keeping OpenAI generation costs below **5% of report revenue** using o4-mini.
+- Shipped **AI-powered WhatsApp Business insights for 2,000+ teams**, using conversation histories, messaging activity, account quality, and tier signals to identify problems and recommend ways to improve messaging performance.
 - Created **Architect Suite**, whose code was adopted into ChatDaddy's production Backend Doctor. It correlates Kibana, frontend, and backend evidence across **257 patterns and 22 services**. With human approval, AI-assisted triage cut investigation time from **1–2 hours to 10–15 minutes** and reduced the ticket backlog from **30–40 to 2–3**.
 
 ## Backend engineering
 
-- Built hot/cold data partitioning across MongoDB and cold storage with Elasticsearch-backed search, maintaining double-digit millisecond response times.
-- Made contact lookups **5× faster** and removed **290K+ API/operational calls per day**.
-- Reduced decryption failures on retried WhatsApp channel messages from **65% to under 1%** across **200K+ daily messages**.
+- Built hot/cold data partitioning for **2TB+ of MongoDB message data**, with transparent access across active and historical storage and Elasticsearch-backed search while maintaining double-digit-millisecond response times.
+- Made contact lookups **5× faster** and removed **290K+ unnecessary API operations per day**.
+- Reduced decryption failures on retried WhatsApp messages from **65% to under 1%** within a WhatsApp system handling **4M+ messages daily**.
 - Root-caused a production PostgreSQL disk-full outage to an orphaned replication slot retaining **200GB+ of WAL**.
 
 ## Selected public projects
